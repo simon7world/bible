@@ -1,5 +1,7 @@
 Holy Bible Database
 ===================
+Author: Simon Chang<br>
+Email: simon.p.7@outlook.com
 
 中文版本
 -------
