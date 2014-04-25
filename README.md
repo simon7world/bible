@@ -18,3 +18,8 @@ for SQLite3.x
 bible.sql
 ---------
 for MySQL5.x
+
+
+License
+=======
+GNU Lesser General Public License（LGPL）
