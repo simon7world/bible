@@ -22,4 +22,4 @@ for MySQL5.x
 
 License
 =======
-GNU Lesser General Public License（LGPL）
+GNU GENERAL PUBLIC LICENSE Version 2
