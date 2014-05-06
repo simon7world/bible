@@ -13,8 +13,13 @@ King James Version
 
 bible.db
 --------
-for SQLite3
+for SQLite3.x
 
 bible.sql
 ---------
-for MySQL5
+for MySQL5.x
+
+
+License
+=======
+GNU GENERAL PUBLIC LICENSE Version 2
