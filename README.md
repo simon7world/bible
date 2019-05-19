@@ -1,4 +1,4 @@
-Holy Bible
+﻿Holy Bible
 ==========
 Author: Simon Chang<br>
 Email: simon.p.7@outlook.com
@@ -14,10 +14,6 @@ King James Version
 bible.db
 --------
 for SQLite3.x
-
-bible.sql
----------
-for MySQL5.x
 
 
 The Streams in The Desert
